@@ -35,3 +35,4 @@ For the client end using react:-
 2) simple-peer      - simple peer is the package that deals with the WebRTC part of website
 3) axios            - used to post and get request from server
 4) react-toastify   - used to display message popup to user if chat box is closed
+5) bootstrap-react  - used for styling the website
