@@ -5,7 +5,7 @@ Steps to run the project on local host:
 1) run `npm install` in the main directory to get dependencies for server side
 2) in another terminal move to  client floder by typing `cd client`
 3) run `npm install` inside this client folder to get dependencies for client side
-4) run server.js for server 
+4) run `nodemon server` for server 
 5) run `npm start` for client side inside client folder
 
 
