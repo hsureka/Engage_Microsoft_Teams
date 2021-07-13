@@ -14,9 +14,9 @@ Features of this Microsoft Teams Clone:-
 8) Turn your video on/off
 9) Share Screen with audio
 10) Full Screen user's video when they share screen.
-11)Record the entire meeting .
+11) Record the entire meeting .
 12) View all participants by their username
-13) Shareable Writing Pad
+13) Shareable White Board
 14) Chat with  users with text popup feature to view messages even if chat box is off
 15) Automatic adjustement of size of video and its layout, when a user joins or leave the meeting.
 
