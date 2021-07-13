@@ -8,7 +8,7 @@ Features of this Microsoft Teams Clone:-
 2) User Authentication System
 3) Invite participants via email by pasting their email id
 4) Modertor's authority to accept/deny user's request to join room
-5) Moderator can even and start the meeting
+5) Moderator can decide when to start and end the meeting
 6) Chat even before or after the meeting has begun or ended respectively
 7) Mute/Unmute your microphone
 8) Turn your video on/off
