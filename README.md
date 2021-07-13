@@ -8,16 +8,17 @@ Features of this Microsoft Teams Clone:-
 2) User Authentication System
 3) Invite participants via email by pasting their email id
 4) Modertor's authority to accept/deny user's request to join room
-5) Chat even before or after the meeting has begun or ended respectively
-6) Mute/Unmute your microphone
-7) Turn your video on/off
-8) Share Screen with audio
-9) Full Screen user's video when they share screen
-10)Record the entire meeting 
-11) View all participants by their username
-12) Shareable Writing Pad
-13) Chat with  users with text popup feature to view messages even if chat box is off
-14) Automatic adjustement of size of video and its layout, when a user joins or leave the meeting.
+5) Moderator can even and start the meeting
+6) Chat even before or after the meeting has begun or ended respectively
+7) Mute/Unmute your microphone
+8) Turn your video on/off
+9) Share Screen with audio
+10) Full Screen user's video when they share screen
+11)Record the entire meeting 
+12) View all participants by their username
+13) Shareable Writing Pad
+14) Chat with  users with text popup feature to view messages even if chat box is off
+15) Automatic adjustement of size of video and its layout, when a user joins or leave the meeting.
 
 
 Packages that I have used: 
