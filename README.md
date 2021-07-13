@@ -12,11 +12,12 @@ Features of this Microsoft Teams Clone:-
 6) Mute/Unmute your microphone
 7) Turn your video on/off
 8) Share Screen with audio
-9)Record the entire meeting 
-10) View all participants by their username
-11) Shareable Writing Pad
-12) Chat with  users with text popup feature to view messages even if chat box is off
-13) Automatic adjustement of size of video and its layout, when a user joins or leave the meeting.
+9) Full Screen user's video when they share screen
+10)Record the entire meeting 
+11) View all participants by their username
+12) Shareable Writing Pad
+13) Chat with  users with text popup feature to view messages even if chat box is off
+14) Automatic adjustement of size of video and its layout, when a user joins or leave the meeting.
 
 
 Packages that I have used: 
