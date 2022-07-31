@@ -175,7 +175,7 @@ function sendMeetLink(toEmail, meetLink){
 		service:"hotmail",
 		auth: {
 			user: "hsurekaengage@outlook.com", //email-id used to send meet link to entered email
-			pass: "Engage@2021"               
+			pass: "********"               
 		}
 	});
 
